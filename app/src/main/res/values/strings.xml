@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ExchangeRates</string>
     <string name="action_settings">Settings</string>
+    <string name="no_connection">Нет подключения к интернету!</string>
+    <string name="server_error">Ошибка сервера!</string>
+    <string name="curr_info">Для изменения позиции элемента списка зажмите его и перетащите на нужное место.</string>
 </resources>
